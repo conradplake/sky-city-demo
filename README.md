@@ -1,5 +1,5 @@
 # sky-city-demo
-A short java 3d demo synced to a licence-free 133 bpm synthwave mp3 track. In addition to Java it requires OpenJFX to run.
+A short java 3d demo synced to a licence-free 133 bpm synthwave mp3 track. In addition to Java it requires OpenJFX for music playback.
 
 <table>
   <tr>
