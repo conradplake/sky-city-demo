@@ -1,5 +1,5 @@
 # sky-city-demo
-A short java 3d demo synced to a licence-free 133 bpm synthwave mp3 track
+A short java 3d demo synced to a licence-free 133 bpm synthwave mp3 track. In addition to Java it requires OpenJFX to run!
 
 ![alt text](https://github.com/conradplake/sky-city-demo/blob/a7ea4e248d68945a2b6126ffba11831d38970b40/Screenshot1.png "Screenshot1")
 
